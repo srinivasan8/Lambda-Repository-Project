@@ -1,0 +1,4 @@
+r=lambda a:a+15
+print(s(3))
+s=lambda x,y:x*y
+Print(s(5,2))
